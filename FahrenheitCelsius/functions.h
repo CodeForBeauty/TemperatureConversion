@@ -1,3 +1,4 @@
+// make sure loads only once
 #pragma once
 
 // convert fahrenheit to celsius by using formula: C = 5/9*(F-32), where C - celsius degrees and F - fahrenheit degrees
