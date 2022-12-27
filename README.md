@@ -2,7 +2,7 @@
 
 I've made this project for portfolio. If you want you can use functions from this project however you want.
 
-#About project:
+# About project:
 
 Made with C++. GUI made with WxWidgets.
 
